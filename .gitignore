@@ -1,0 +1,5 @@
+# default
+**/.ipynb_checkpoints/
+
+# data
+**/*.csv
